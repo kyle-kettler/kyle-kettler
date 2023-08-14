@@ -1,8 +1,15 @@
-### Hi there 👋
+![cover](https://github.com/kyle-kettler/kyle-kettler/assets/126023512/7cf0414a-c3ef-483e-8fdc-af4a97b4ea73)
+
+### Hi, I'm Kyle
+I'm a design-focused software engineer. I've spent the last decade designing and building online projects for clients, in-house, and for fun.
+
+- Technologies: Typescript, React, CSS3, HTML5, Node, Express, Tailwind
+- Currently learning: NextJS, React Testing Library, Vim
+- 
+
+### About Me
 
 <!--
-**kyle-kettler/kyle-kettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
