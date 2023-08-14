@@ -5,9 +5,6 @@ I'm a design-focused software engineer. I've spent the last decade designing and
 
 - Technologies: Typescript, React, CSS3, HTML5, Node, Express, Tailwind
 - Currently learning: NextJS, React Testing Library, Vim
-- 
-
-### About Me
 
 <!--
 Here are some ideas to get you started:
