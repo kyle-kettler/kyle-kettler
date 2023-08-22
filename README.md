@@ -2,7 +2,7 @@
 
 ### Hi, I'm Kyle
 - **Technologies:** Typescript, React, CSS3, HTML5, Node, Express, Tailwind
-- **Currently learning:** NextJS, React Testing Library, Vim
+- **Currently learning:** Remix, React Testing Library, Vim
 - **On deck to learn:** Svelte
 - **Currently building:** [LeadAnswer](https://www.leadanswer.io/), an automated sales follow-up platform.
 - **Looking for:** A full-time position where I can contribute to the code and design. 
