@@ -4,7 +4,7 @@
 - **Technologies:** Typescript, React, CSS3, HTML5, Node, Express, Tailwind
 - **Currently learning:** Remix, Cypress, Vim
 - **On deck to learn:** Svelte
-- **Currently building:** [LeadAnswer](https://www.leadanswer.io/), an automated sales follow-up platform.
+- **Currently building:** A React component library with Radix UI primitives, TypeScript, and Tailwind for [LeadAnswer](https://www.leadanswer.io/), an automated sales follow-up platform.
 - **Looking for:** A full-time position where I can contribute to the code and design. 
 
 ## About Me
