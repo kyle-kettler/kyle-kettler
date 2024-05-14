@@ -1,5 +1,3 @@
-![cover](https://github.com/kyle-kettler/kyle-kettler/assets/126023512/7cf0414a-c3ef-483e-8fdc-af4a97b4ea73)
-
 ### Hi, I'm Kyle
 - **Technologies:** Typescript, React, Next.js, Node, Tailwind
 - **Currently learning:** Remix, Cypress
