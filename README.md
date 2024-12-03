@@ -1,7 +1,6 @@
 ### Hi, I'm Kyle
 - **Technologies:** Typescript, React, Next.js, Node, Tailwind
-- **Currently learning:** Remix, Cypress
-- **On deck to learn:** Svelte
+- **Currently learning:** Go
 - **Current Role:** Product Engineer at [PulpitAI](https://pulpitai.com/)
 - **Currently building:** [LeadAnswer](https://www.leadanswer.io/), an automated sales follow-up platform.
 
